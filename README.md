@@ -109,7 +109,7 @@ ecu-security-research/
 │
 └── images/
     └── diagrams/
----
+```
 
 ## ⚠️ Disclaimer
 
