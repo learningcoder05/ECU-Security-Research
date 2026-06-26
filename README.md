@@ -78,7 +78,7 @@ Documenting:
 ---
 
 ## 📂 Repository Structure
-docs/
+''' docs/
 Research notes
 
 findings/
@@ -89,7 +89,7 @@ Automation utilities
 
 captures/
 CAN logs and samples
-
+'''
 
 ---
 
