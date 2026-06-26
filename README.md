@@ -78,19 +78,37 @@ Documenting:
 ---
 
 ## 📂 Repository Structure
-''' docs/
-Research notes
 
-findings/
-Observed behaviours and analysis
-
-scripts/
-Automation utilities
-
-captures/
-CAN logs and samples
-'''
-
+```text
+ecu-security-research/
+│
+├── README.md
+│   └── Overview and research documentation
+│
+├── docs/
+│   ├── can-basics.md
+│   ├── uds-notes.md
+│   ├── dtc-analysis.md
+│   ├── ecu-discovery.md
+│   └── security-observations.md
+│
+├── captures/
+│   ├── README.md
+│   └── sample_logs/
+│       └── CAN traffic captures
+│
+├── scripts/
+│   ├── README.md
+│   ├── can_parser.py
+│   └── uds_helpers.py
+│
+├── findings/
+│   ├── README.md
+│   ├── finding_template.md
+│   └── discovered_behaviour.md
+│
+└── images/
+    └── diagrams/
 ---
 
 ## ⚠️ Disclaimer
